@@ -1,2 +1,2 @@
 # machine-learning
-Predict laptop price
+Text prediction according to the writer's gender
